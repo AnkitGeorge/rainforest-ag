@@ -1,8 +1,8 @@
 == README
 
-AnkitGeorge - This is a basic clone of a webstore like Amazon. It incorporates
-concepts such as authentication and authorization, and is a good refresher of
-Ruby on Rails knowledge.
+AnkitGeorge - This is a basic clone of a webstore with products, users, and
+reviews. It incorporates concepts such as authentication and authorization,
+and is a good refresher of Ruby on Rails knowledge.
 
 --------------------------------------------------------
 
